@@ -26,6 +26,10 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Plant-Biotechnology-Books/blob/master/pib(18).pdf" style="text-decoration:none;"> Agricultural Biotechnology</a></b></li>
                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Plant-Biotechnology-Books/blob/master/pib(19).pdf" style="text-decoration:none;"> Plant Biotechnology and Transgenic Plants  </a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Plant-Biotechnology-Books/blob/master/pib(19).pdf" style="text-decoration:none;"> Plant Biotechnology and Transgenic Plants  </a></b></li>  
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Plant-Biotechnology-Books/blob/master/pib(13).pdf" style="text-decoration:none;">Applied Molecular Biotechnology: The Next Generation of Genetic Engineering</a></b></li>
+                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Plant-Biotechnology-Books/blob/master/pib(20).pdf" style="text-decoration:none;"> Plant Genetics, Genomics, Bioinformatics and Biotechnology </a></b></li> 
 
 </ul>
